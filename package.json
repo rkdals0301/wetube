@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Cloning Youtube with VanillaJS and NodeJs",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Lee Gang Min",
   "license": "ISC",
   "dependencies": {
