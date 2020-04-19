@@ -27,14 +27,14 @@ const routes = {
     logout: LOGOUT,
     search: SEARCH,
     users: USERS,
-    userDetal: USER_DETAIL,
+    userDetail: USER_DETAIL,
     editProfile: EDIT_PROFILE,
     changePassword: CHANGE_PASSWORD,
     videos: VIDEOS,
     upload: UPLOAD,
-    voideoDetail: VIDEO_DETAIL,
+    videoDetail: VIDEO_DETAIL,
     editVideo: EDIT_VIDEO,
-    detailVideo: DELETE_VIDEO,
+    deleteVideo: DELETE_VIDEO
 };
 
 export default routes;
